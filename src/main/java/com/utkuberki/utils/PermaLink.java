@@ -1,5 +1,5 @@
 package com.utkuberki.utils;
 
 public class PermaLink {
-    //GİTHUB :
+    //GİTHUB : https://github.com/devutku/BysSpringFramework
 }
